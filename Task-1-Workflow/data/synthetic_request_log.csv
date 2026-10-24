@@ -1,0 +1,13 @@
+synthetic_request_id,scenario_date,scenario_type,information_complete,simulated_status,simulated_check_summary,simulated_current_owner,expected_or_simulated_outcome,evidence_type
+SYN-001,2026-10-20,Normal,Complete,Under Verification,Library=Cleared;Accounts=Cleared;Lab=Cleared,Receiving Office,Ready for Final Review,Synthetic scenario
+SYN-002,2026-10-20,Normal,Complete,Ready for Final Review,Library=Cleared;Accounts=Cleared;Lab=Cleared,Final Approver,Approved / Completed,Synthetic scenario
+SYN-003,2026-10-21,Missing information,Incomplete,Needs Information,Not routed,Student,Needs Information,Synthetic scenario
+SYN-004,2026-10-21,Missing information,Incomplete,Needs Information,Not routed,Student,Needs Information,Synthetic scenario
+SYN-005,2026-10-21,Duplicate,Complete,Duplicate Linked,Existing canonical request SYN-002,Receiving Office,Duplicate Linked,Synthetic scenario
+SYN-006,2026-10-22,Duplicate,Complete,Duplicate Linked,Existing canonical request SYN-001,Receiving Office,Duplicate Linked,Synthetic scenario
+SYN-007,2026-10-22,Unauthorized,Unknown,On Hold — Authority Check,No departmental checks started,Authorized Intake Officer,On Hold — Authority Check,Synthetic scenario
+SYN-008,2026-10-22,Normal,Complete,Under Verification,Library=Cleared;Accounts=Cleared;Lab=Cleared,Receiving Office,Ready for Final Review,Synthetic scenario
+SYN-009,2026-10-23,Failed step,Complete,On Hold — System or Record Issue,Accounts verification unavailable,Accounts Verifier,On Hold — System or Record Issue,Synthetic scenario
+SYN-010,2026-10-23,Failed step,Complete,On Hold — System or Record Issue,Library record mismatch,Library Verifier,On Hold — System or Record Issue,Synthetic scenario
+SYN-011,2026-10-23,Normal,Complete,Pending Department,Lab confirmation pending,Lab Verifier,Pending Department,Synthetic scenario
+SYN-012,2026-10-24,Normal,Complete,Approved / Completed,All mandatory checks recorded as cleared,Final Approver,Approved / Completed,Synthetic scenario

@@ -1,0 +1,13 @@
+synthetic_request_id,illustrative_department,simulated_check_result,scenario_date,evidence_type
+SYN-001,Library,Cleared,2026-10-20,Synthetic scenario
+SYN-001,Accounts,Cleared,2026-10-20,Synthetic scenario
+SYN-001,Lab,Cleared,2026-10-20,Synthetic scenario
+SYN-002,Library,Cleared,2026-10-20,Synthetic scenario
+SYN-002,Accounts,Cleared,2026-10-20,Synthetic scenario
+SYN-002,Lab,Cleared,2026-10-20,Synthetic scenario
+SYN-009,Accounts,Unable to Verify — system unavailable,2026-10-23,Synthetic scenario
+SYN-010,Library,Unable to Verify — record mismatch,2026-10-23,Synthetic scenario
+SYN-011,Lab,Pending,2026-10-23,Synthetic scenario
+SYN-012,Library,Cleared,2026-10-24,Synthetic scenario
+SYN-012,Accounts,Cleared,2026-10-24,Synthetic scenario
+SYN-012,Lab,Cleared,2026-10-24,Synthetic scenario

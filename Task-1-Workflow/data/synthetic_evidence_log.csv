@@ -1,0 +1,8 @@
+evidence_id,date,activity,classification,synthetic_record_or_statement,design_implication,label,limitation
+EV-SYN-001,2026-10-24,README reviewed,Synthetic desk-study record,"The project requires a dated evidence log and labels for facts, estimates and assumptions.",README requirements were reviewed for this case study.,Synthetic desk-study entry,No real process observation implied.
+EV-SYN-002,2026-10-24,Workflow selected,Project decision,No-Due Clearance selected as the workflow to model.,Scope begins at request submission and ends at final notification.,Project decision,Workflow sequence is not verified.
+EV-SYN-003,2026-10-24,Current-state map drafted,Assumption,"Request passes through intake, applicable departments and final review.",Use a single status register to record each handoff.,Assumption,Validate roles and approvals with authorized personnel.
+EV-SYN-004,2026-10-24,Potential bottleneck,Hypothesis,Repeated follow-up and unclear ownership may consume staff time.,"Record owner, pending reason and next action.",Hypothesis,No measured delays or complaints supplied.
+EV-SYN-005,2026-10-24,Illustrative baseline created,Estimate,24 active staff minutes per request assumed.,Compare with a proposed 15-minute total.,Estimate,Replace with measured time study.
+EV-SYN-006,2026-10-24,Exception tests designed,Synthetic scenario,Five required exception/normal cases were designed.,"Test expected statuses, control boundaries and recovery.",Synthetic test design,Not run against production software.
+EV-SYN-007,2026-10-24,Monthly scale scenario,Estimate,100 requests per month assumed only for calculation.,Illustrative net saving equals 15 staff-hours/month.,Estimate,Not actual IFHE volume or result.
